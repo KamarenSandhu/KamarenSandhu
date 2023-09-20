@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @KamarenSandhu
 - 👀 I’m interested in IT, Front End Development, and UI/UX Design.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Comptia A+.
 - 💞️ I’m looking for my first professional job.
 - 📫 How to reach me: kamarensandhu21@gmail.com. OR connect with me on Linkedin: https://linkedin.com/in/kamaren-sandhu
 - 📖 If you would like to view my Front-End development portfolio please visit: https://kamarensandhuportfolio.com 
